@@ -1,0 +1,11 @@
+// Use of certain login for multiple usage.
+//functions can be aclled whenever required
+// function calling- calling a funciton when necessary
+// values in function - arguments
+// values in brackets - parameters
+// by default all functions give undefined as result
+// Wrapper function
+functioninnerfunction(){
+  console.log("Inner")
+  }
+  innerFunction()dsys
